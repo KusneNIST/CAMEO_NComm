@@ -1,0 +1,20 @@
+When using this data please cite these two publications:
+Kusne, A. G., et al. "On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active Learning." arXiv (2020): arXiv-2006.
+
+Long, C. J., et al. "Rapid structural mapping of ternary metallic alloy systems using the combinatorial approach and cluster analysis." Review of Scientific Instruments 78.7 (2007): 072217.
+
+
+File descriptions:
+FeGaPd_XRD.txt:
+First row is the 2theta value for each column.
+Row N+1 contains the x-ray diffraction intensities for sample N.
+
+FeGaPd_CMP.txt:
+Row N+1 contains the composition for sample N.
+
+FeGaPd_Mag.txt:
+First column contains the scanning SQUID voltage
+Second column contains the scanning SQUID voltage with the saturated values modified with a large Gaussian as described in the paper.
+
+FeGaPd_DFT_regions.txt:
+The computed DFT phase regions were converted to index labels for each sample.
