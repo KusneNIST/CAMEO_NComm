@@ -36,9 +36,8 @@ function [U] = graph_cut_160402a(Y,U,S,w,B,X,C,gc_alpha)
 
 % A. Gilad Kusne, NIST, aaron.kusne@nist.gov, Release 8/01/2020
 % If using this work for a publication, please cite:
-% Kusne, A. G., et al. "On-the-fly Closed-loop Autonomous Materials
-% Discovery via Bayesian Active Learning." arXiv preprint arXiv:2006.06141
-% (2020).
+% Kusne, A. Gilad, et al. "On-the-fly closed-loop materials discovery
+% via Bayesian active learning." Nature communications 11.1 (2020): 1-11.
 
 if(nargin > 4)
     if(gc_alpha < 1)
