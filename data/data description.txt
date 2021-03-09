@@ -1,5 +1,5 @@
 When using this data please cite these two publications:
-Kusne, A. G., et al. "On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active Learning." arXiv (2020): arXiv-2006.
+Kusne, A. Gilad, et al. "On-the-fly closed-loop materials discovery via Bayesian active learning." Nature communications 11.1 (2020): 1-11.
 
 Long, C. J., et al. "Rapid structural mapping of ternary metallic alloy systems using the combinatorial approach and cluster analysis." Review of Scientific Instruments 78.7 (2007): 072217.
 
